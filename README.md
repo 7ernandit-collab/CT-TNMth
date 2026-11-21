@@ -1,5 +1,5 @@
-#TechMth Solutions
-**Automatización para la Coordinación de Titulación · TecNM Campus Matehuala
+# TechMth_Solutions
+## Automatización para la Coordinación de Titulación · TecNM Campus Matehuala
 
 Sistema en Python que atiende a los egresados por WhatsApp, Telegram, correo (Gmail y Outlook) y llamadas:
 
