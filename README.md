@@ -15,18 +15,28 @@ Les muestra la ruta para concluir su titulación, paso por paso.
 
   Al pie del portal está el Acceso Coordinación, protegido con contraseña. Solo sirve para descargar el Excel: la página nunca muestra los datos.
 
-» Después de entrar
-  • Inicio
-  • Banner con el logo de TechMth Solutions.
-  • Mi avance de titulación: barra de progreso, «Lo que ya tienes», «Lo que te falta» y la ruta para concluir su titulación.
-  • Tarjetas de los canales de atención.
-  • WhatsApp · Telegram · Correo · Llamadas: cada canal en su propia sección, con preguntas frecuentes de un toque. Las llamadas se contestan por texto.
-  • Panel «Mi avance»: en computadora queda fijo a la derecha; en tableta y celular se desliza desde el borde cuando hace falta.
+- Después de entrar
+  * Inicio
+  
+  * Banner con el logo de TechMth Solutions.
+  
+  * Mi avance de titulación: barra de progreso, «Lo que ya tienes», «Lo que te falta» y la ruta para concluir su titulación.
+  
+  * Tarjetas de los canales de atención.
+  
+  * WhatsApp · Telegram · Correo · Llamadas: cada canal en su propia sección, con preguntas frecuentes de un toque. Las llamadas se contestan por texto.
+  
+  * Panel «Mi avance»: en computadora queda fijo a la derecha; en tableta y celular se desliza desde el borde cuando hace falta.
 
-» Diseño skeuomórfico
-  • Encabezado: textura de piel azul marino con filo de luz.
-  • Superficies: tarjetas como hojas de papel con sombra real, y el área de conversación hundida en la página.
-  • Botones y globos: botones con brillo y relieve que se levantan al pasar el mouse; globos de chat tipo vidrio.
-  • Barra de progreso: con volumen.
-  • Barra de navegación: solo con los íconos (Inicio, WhatsApp, Telegram, Correo y Llamadas) en mosaicos con relieve. El nombre aparece al pasar el mouse.
-  • Logos institucionales: el TecNM y el Instituto Tecnológico de Matehuala van en una placa en el encabezado, el portal, el Inicio y el Acceso Coordinación.
+- Diseño skeuomórfico
+  * Encabezado: textura de piel azul marino con filo de luz.
+
+  * Superficies: tarjetas como hojas de papel con sombra real, y el área de conversación hundida en la página.
+
+  * Botones y globos: botones con brillo y relieve que se levantan al pasar el mouse; globos de chat tipo vidrio.
+
+  * Barra de progreso: con volumen.
+
+  * Barra de navegación: solo con los íconos (Inicio, WhatsApp, Telegram, Correo y Llamadas) en mosaicos con relieve. El nombre aparece al pasar el mouse.
+
+  * Logos institucionales: el TecNM y el Instituto Tecnológico de Matehuala van en una placa en el encabezado, el portal, el Inicio y el Acceso Coordinación.
