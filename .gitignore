@@ -1,0 +1,13 @@
+# Datos de egresados: NUNCA se suben al repositorio público
+datos/
+*.xlsx
+assets/descargas/
+# Python
+__pycache__/
+*.pyc
+.venv/
+# Compilaciones
+sitio/
+web/
+build/
+dist/
